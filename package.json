@@ -25,7 +25,8 @@
     "bcrypto": "~3.0.2",
     "bsert": "~0.0.8",
     "bsip": "~0.1.5",
-    "n64": "~0.2.6"
+    "n64": "~0.2.6",
+    "buffer-map": "0.0.3"
   },
   "devDependencies": {
     "bmocha": "^1.0.0"
